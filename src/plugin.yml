@@ -1,0 +1,7 @@
+name: NametagHider
+version: 1
+author: danny
+main: us.danny.nametaghider.Main
+commands:
+  hideNameTags:
+    description: hides nametags
